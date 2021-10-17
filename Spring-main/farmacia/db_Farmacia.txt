@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Ritalina",
+        "descricao": "Esse remédio serve para quem tem TDAH",
+        "preco": 50.00,
+        "categoria": {
+            "id": 3,
+            "descricao": "Tarja Preta"
+        }
+    },
+    {
+        "id": 2,
+        "nome": "Vetoconazol",
+        "descricao": "É um medicamento que você deve usar para o tratamento de infecções na pele causadas por fungos ou leveduras",
+        "preco": 20.00,
+        "categoria": {
+            "id": 1,
+            "descricao": "Tarja Amarela"
+        }
+    },
+    {
+        "id": 3,
+        "nome": "Glifage",
+        "descricao": "É um medicamento antidiabético de uso oral",
+        "preco": 30.00,
+        "categoria": {
+            "id": 2,
+            "descricao": "Tarja Vermelha"
+        }
+    }
+]
